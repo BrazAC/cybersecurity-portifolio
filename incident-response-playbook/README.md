@@ -15,6 +15,7 @@ Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project impleme
   <em>A high level IR playbook.</em>
 </p>
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -27,6 +28,7 @@ Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project impleme
     </td>
   </tr>
 </table>
+</div>
 
 ## Repository structure
 - [[docs/lifecycle-overview](./docs/lifecycle-overview.md)] An explanation of a playbook life cycle. 
