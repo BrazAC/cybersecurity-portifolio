@@ -20,7 +20,7 @@ Each player received a description of his responsabilities and strongest interes
 	- Does your organization have training and policies in place to prevent this?
 	- Do policies apply to all storage devices?  
 
-A [timeline of events with more questions]() was created using a generative AI to enhance the exercise realism and details.
+A [timeline of events with more questions](../files/tabletop-scenario-timeline.pdf) was created using a generative AI to enhance the exercise realism and details.
  
 
 ## Lessons learned and IRP-PB updates
