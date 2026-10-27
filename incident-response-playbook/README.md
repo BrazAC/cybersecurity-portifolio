@@ -12,7 +12,7 @@ Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project impleme
 ![High level IR playbook v01](./files/high-level-IR-playbook-v02.png)
 
 ## Repository structure
-- [[docs/lifecycle-overview](./docs/creation-lifecycle-overview.md)] An explanation of a playbook life cycle. 
+- [[docs/lifecycle-overview](./docs/lifecycle-overview.md)] An explanation of a playbook life cycle. 
 - [[docs/tabletop-description](./docs/tabletop-description.md)] A description of planning and execution of the tabletop. 
 - [[files](./files)] All playbook files and versions.
 
