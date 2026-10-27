@@ -12,13 +12,17 @@ Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project impleme
 ![High level IR playbook v01](./files/high-level-IR-playbook-v02.png)
 
 ## Repository structure
-- [[docs/lifecycle-overview](./docs/creation-lifecycle-overview.md)] A explanation of a playbook life cycle. 
+- [[docs/lifecycle-overview](./docs/creation-lifecycle-overview.md)] An explanation of a playbook life cycle. 
 - [[docs/tabletop-description](./docs/tabletop-description.md)] A description of planning and execution of the tabletop. 
 - [[files](./files)] All playbook files and versions.
 
 ## Key takeaways
-- There are international organizations who guide any size business to more safe cybersecurity operational levels (e.g., NIST).
-- It is huge the importance of establish and document incident response policies to reduce impacts. Playbooks are a good way to document these processes.
+- There are international organizations that guide any size business to more safe cybersecurity operational levels (e.g., NIST, CISA).
+- It is huge the importance to establish and document incident response policies to reduce impacts. Playbooks are a good way to document these processes.
+- Even with an existing and well documented policy to incident response, the organization personell may not perform a good response. Hence the importance of training exercises like the tabletop performed in this project.
+- The incident response policy needs to be shared across all organization sectors. So everyone stays on the same page during a response.
+- Different personnel from different sectors **will** make decisions guided by their own responsabilities and strongest interests. Hence the importance of preparing policies taking everyone's point of view. 
+- A trained mediator (or a team of them) is necessary to manage team work incident response situations since personell tension can escalate quickly.
 
 ## References
 - **[1]** Nelson A, Rekhi S, Souppaya M, Scarfone K (2025) Incident Response Recommendations and Considerations for
