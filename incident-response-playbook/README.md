@@ -9,7 +9,7 @@ Effective implementation of processes of incident response enable systematic act
 
 Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project implements a high level incident response playbook, and a tabletop simulation to evaluate its flaws and implement corrections. That way, a better understanding of correct procedures under pressure will be accomplished.  
 
-![High level IR playbook v01](./files/high-level-IR-playbook-v01.png)
+![High level IR playbook v01](./files/high-level-IR-playbook-v02.png)
 
 ## Repository structure
 - [[docs](https://github.com/BrazAC/cybersecurity-portifolio/tree/main/incident-responde-playbook/docs)] In depth playbook creation proccess and his life cycle details 
