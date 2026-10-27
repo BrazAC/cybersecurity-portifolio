@@ -12,9 +12,9 @@ Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project impleme
 ![High level IR playbook v01](./files/high-level-IR-playbook-v02.png)
 
 ## Repository structure
-- [[docs](https://github.com/BrazAC/cybersecurity-portifolio/tree/main/incident-responde-playbook/docs)] In depth playbook creation proccess and his life cycle details 
-- [[docs](https://github.com/BrazAC/cybersecurity-portifolio/tree/main/incident-responde-playbook/docs)] Tabletop planning, execution and consequences details. 
-- [[files](https://github.com/BrazAC/cybersecurity-portifolio/tree/main/incident-responde-playbook/files)] All playbook files and versions.
+- [[docs/lifecycle-overview](./docs/creation-lifecycle-overview.md)] A explanation of a playbook life cycle. 
+- [[docs/tabletop-description](./docs/tabletop-description.md)] A description of planning and execution of the tabletop. 
+- [[files](./files)] All playbook files and versions.
 
 ## Key takeaways
 - There are international organizations who guide any size business to more safe cybersecurity operational levels (e.g., NIST).
