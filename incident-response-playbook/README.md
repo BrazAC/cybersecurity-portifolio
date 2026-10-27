@@ -7,9 +7,26 @@ Organizations must have policies to govern their cybersecurity incident response
 - Processes should be based on the incident response policy. Their documentation explains how technical procedures are to be performed. They must be tested periodically to evaluate quality (e.g., tabletops).  
 Effective implementation of processes of incident response enable systematic action, clearly established personnel roles and functions, reducing the overall impact of incidents.  
 
-Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project implements a high level incident response playbook, and a tabletop simulation to evaluate its flaws and implement corrections. That way, a better understanding of correct procedures under pressure will be accomplished.  
+Following the **NIST SP 800-61r3** [1] and **CISA-PB** [2], this project implements a high level incident response playbook, and a tabletop simulation (**a huge thanks to my colleagues**) to evaluate its flaws and implement corrections. That way, a better understanding of correct procedures under pressure will be accomplished.  
 
-![High level IR playbook v01](./files/high-level-IR-playbook-v02.png)
+<p align="center">
+  <img src="./files/high-level-IR-playbook-v02.png" alt="A high level IR playbook" width="680">
+  <br>
+  <em>A high level IR playbook.</em>
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./files/playbook-with-friends.jpeg" width="300">
+      <br><em>The "High trained organization personnel"</em>
+    </td>
+    <td align="center">
+      <img src="./files/playbook-badges.jpeg" width="300">
+      <br><em>Identification badges</em>
+    </td>
+  </tr>
+</table>
 
 ## Repository structure
 - [[docs/lifecycle-overview](./docs/lifecycle-overview.md)] An explanation of a playbook life cycle. 
